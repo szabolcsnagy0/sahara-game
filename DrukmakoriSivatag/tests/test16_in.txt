@@ -1,0 +1,5 @@
+add cistern cistern
+add mechanic m1
+move m1 cistern
+pickuppump m1
+state

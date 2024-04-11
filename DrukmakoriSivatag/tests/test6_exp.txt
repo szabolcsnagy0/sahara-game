@@ -1,0 +1,4 @@
+Mechanic m1 on cistern has pipe: false has pump: false
+Cistern cistern with ends: pipe pipe available: false drained water: 0 standing players: m1
+Pipe pipe with ends: cistern, null max volume: 500 current volume: 0 wasted water: 0 broken: false breakable: 0 slippery: 0 sticky: 0 standing player: null
+

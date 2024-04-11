@@ -1,0 +1,9 @@
+add mechanic m1
+add pump pump1
+add pipe pipe1
+add spring spring1
+connect pipe1 pump1
+connect pipe1 spring1
+move m1 pump1
+disconnect pipe1 pump1 m1
+state

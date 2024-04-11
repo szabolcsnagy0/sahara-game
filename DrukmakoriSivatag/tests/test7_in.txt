@@ -1,0 +1,10 @@
+random off
+add pipe pipe1
+add pump pump1
+add pump pump2
+connect pipe1 pump1
+connect pipe1 pump2
+add mechanic m1
+makeslippery pipe1
+move m1 pipe1
+state

@@ -1,0 +1,12 @@
+add pump basepump
+add pump oldpump
+add pump newpump
+add mechanic m1
+add pipe pipe
+connect pipe oldpump
+connect pipe basepump
+move m1 basepump
+state pipe
+disconnect pipe oldpump m1
+connect pipe basepump m1
+state

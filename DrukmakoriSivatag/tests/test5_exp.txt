@@ -1,0 +1,10 @@
+Mechanic m1 on p1 has pipe: false has pump: false
+
+Pump p1 with ends: mpos, spos input: null output: null broken: false max volume: 500 current volume: 0 standing players: m1
+
+Pump p1 with ends: mpos, spos input: null output: null broken: false max volume: 500 current volume: 0 standing players: m1, s1
+Mechanic m1 on p1 has pipe: false has pump: false
+Pipe mpos with ends: p1, null max volume: 500 current volume: 0 wasted water: 0 broken: false breakable: 0 slippery: 0 sticky: 0 standing player: null
+Pipe spos with ends: p1, null max volume: 500 current volume: 0 wasted water: 0 broken: false breakable: 0 slippery: 0 sticky: 0 standing player: null
+Saboteur s1 on p1
+

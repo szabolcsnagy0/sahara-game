@@ -1,0 +1,8 @@
+Pump newPump with ends: pipe1, newPipe input: null output: null broken: false max volume: 500 current volume: 0 standing players: null
+Mechanic m1 on pipe1 has pipe: true has pump: false
+Pipe newPipe with ends: pump2, newPump max volume: 500 current volume: 0 wasted water: 0 broken: false breakable: 0 slippery: 0 sticky: 0 standing player: null
+Pipe pipe1 with ends: pump1, newPump max volume: 500 current volume: 0 wasted water: 0 broken: false breakable: 0 slippery: 0 sticky: 0 standing player: m1
+Pump pump1 with ends: pipe1 input: null output: null broken: false max volume: 500 current volume: 0 standing players: null
+Pump pump2 with ends: newPipe input: null output: null broken: false max volume: 500 current volume: 0 standing players: null
+Cistern c1 with ends: null pipe available: false drained water: 0 standing players: null
+

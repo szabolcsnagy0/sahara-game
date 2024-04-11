@@ -1,0 +1,7 @@
+Pump pump1 with ends: p1, p2 input: p1 output: p2 broken: true max volume: 500 current volume: 0 standing players: m1
+
+Pipe p1 with ends: pump1, null max volume: 500 current volume: 0 wasted water: 0 broken: false breakable: 0 slippery: 0 sticky: 0 standing player: null
+Pipe p2 with ends: pump1, null max volume: 500 current volume: 0 wasted water: 50 broken: false breakable: 0 slippery: 0 sticky: 0 standing player: null
+Mechanic m1 on pump1 has pipe: false has pump: false
+Pump pump1 with ends: p1, p2 input: p1 output: p2 broken: false max volume: 500 current volume: 0 standing players: m1
+

@@ -1,0 +1,8 @@
+Pipe pipe1 with ends: s1, pump1 max volume: 10 current volume: 10 wasted water: 0 broken: false breakable: 0 slippery: 0 sticky: 0 standing player: null
+Pump pump1 with ends: pipe1 input: null output: null broken: false max volume: 10 current volume: 10 standing players: null
+Spring s1 with ends: pipe1 standing players: null
+
+Pipe pipe1 with ends: s1, pump1 max volume: 10 current volume: 10 wasted water: 0 broken: false breakable: 0 slippery: 0 sticky: 0 standing player: null
+Pump pump1 with ends: pipe1 input: null output: null broken: false max volume: 10 current volume: 10 standing players: null
+Spring s1 with ends: pipe1 standing players: null
+

@@ -1,0 +1,10 @@
+add pump pump1
+add pipe p1
+add pipe p2
+connect p1 pump1
+connect p2 pump1
+setpump pump1 p1 p2
+setcurrentvolume p1 10
+state
+tick pump1
+state p2

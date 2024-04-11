@@ -1,0 +1,6 @@
+add pipe pipe1
+add mechanic m1
+move m1 pipe1
+state pipe1
+makesticky pipe1 m1
+state pipe1

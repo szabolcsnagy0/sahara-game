@@ -1,0 +1,4 @@
+Pipe pipe1 with ends: null, null max volume: 500 current volume: 0 wasted water: 0 broken: false breakable: 0 slippery: 0 sticky: 0 standing player: m1
+
+Pipe pipe1 with ends: null, null max volume: 500 current volume: 0 wasted water: 0 broken: false breakable: 0 slippery: 0 sticky: 3 standing player: m1
+

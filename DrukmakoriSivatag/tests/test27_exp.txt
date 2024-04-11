@@ -1,0 +1,6 @@
+Pipe p1 with ends: c1, null max volume: 500 current volume: 50 wasted water: 0 broken: false breakable: 0 slippery: 0 sticky: 0 standing player: null
+Cistern c1 with ends: p1 pipe available: false drained water: 0 standing players: null
+
+Pipe p1 with ends: c1, null max volume: 500 current volume: 0 wasted water: 0 broken: false breakable: 0 slippery: 0 sticky: 0 standing player: null
+Cistern c1 with ends: p1 pipe available: true drained water: 50 standing players: null
+

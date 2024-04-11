@@ -1,0 +1,7 @@
+add cistern cistern
+add pipe pipe
+connect pipe cistern
+add mechanic m1
+move m1 pipe
+move m1 cistern
+state

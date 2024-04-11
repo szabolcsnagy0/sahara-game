@@ -1,0 +1,6 @@
+add pipe pipe1
+add saboteur s1
+move s1 pipe1
+state pipe1
+makeslippery pipe1 s1
+state pipe1

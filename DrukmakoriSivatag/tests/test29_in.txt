@@ -1,0 +1,12 @@
+add spring s1
+add pipe pipe1
+add pump pump1
+connect pipe1 s1
+connect pipe1 pump1
+setmaxvolume pipe1 10
+setmaxvolume pump1 10
+setcurrentvolume pipe1 10
+setcurrentvolume pump1 10
+state
+tick s1
+state

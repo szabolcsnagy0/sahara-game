@@ -1,0 +1,9 @@
+add pipe pipe1
+add pump pump1
+connect pipe1 pump1
+add mechanic m1
+move m1 pipe1
+makesticky pipe1
+state
+move m1 pump1
+state

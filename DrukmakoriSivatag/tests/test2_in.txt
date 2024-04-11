@@ -1,0 +1,4 @@
+add pipe pipe1
+add mechanic mechanic1
+move mechanic1 pipe1
+state

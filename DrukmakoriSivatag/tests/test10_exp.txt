@@ -1,0 +1,5 @@
+Mechanic m1 on pump1 has pipe: false has pump: false
+Spring spring1 with ends: pipe1 standing players: null
+Pump pump1 with ends: null input: null output: null broken: false max volume: 500 current volume: 0 standing players: m1
+Pipe pipe1 with ends: spring1, null max volume: 500 current volume: 0 wasted water: 0 broken: false breakable: 0 slippery: 0 sticky: 0 standing player: null
+

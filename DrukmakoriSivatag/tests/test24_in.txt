@@ -1,0 +1,8 @@
+random off
+add pipe p1
+add mechanic m1
+puncturepipe p1
+move m1 p1
+state p1
+fixpipe p1 m1
+state p1

@@ -1,0 +1,6 @@
+load mechanicwithpipeandpump.txt
+add cistern c2
+tick c2 
+move m1 c2
+pickuppipe m1
+state

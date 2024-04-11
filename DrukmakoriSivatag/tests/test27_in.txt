@@ -1,0 +1,7 @@
+add cistern c1
+add pipe p1
+connect p1 c1
+setcurrentvolume p1 50
+state
+tick c1
+state

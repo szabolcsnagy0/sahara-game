@@ -1,0 +1,4 @@
+Pump pump1 with ends: p1, p2, p3, p4 input: p1 output: p2 broken: false max volume: 500 current volume: 0 standing players: m1
+
+Pump pump1 with ends: p1, p2, p3, p4 input: p3 output: p4 broken: false max volume: 500 current volume: 0 standing players: m1
+

@@ -1,0 +1,6 @@
+add mechanic m1
+add cistern c1
+move m1 c1
+tick c1
+pickuppipe m1
+pickuppump m1

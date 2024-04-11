@@ -1,0 +1,3 @@
+Spring spring with ends: null standing players: m1
+Mechanic m1 on spring has pipe: false has pump: false
+

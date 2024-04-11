@@ -1,0 +1,5 @@
+load mechanicwithpipeandpump.txt
+add pump pump1
+move m1 pump1
+placepipe m1 pump1 pipe1
+state

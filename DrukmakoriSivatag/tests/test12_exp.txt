@@ -1,0 +1,8 @@
+Pipe pipe with ends: oldpump, basepump max volume: 500 current volume: 0 wasted water: 0 broken: false breakable: 0 slippery: 0 sticky: 0 standing player: null
+
+Pump newpump with ends: null input: null output: null broken: false max volume: 500 current volume: 0 standing players: null
+Mechanic m1 on basepump has pipe: false has pump: false
+Pump basepump with ends: pipe, pipe input: null output: null broken: false max volume: 500 current volume: 0 standing players: m1
+Pipe pipe with ends: basepump, basepump max volume: 500 current volume: 0 wasted water: 0 broken: false breakable: 0 slippery: 0 sticky: 0 standing player: null
+Pump oldpump with ends: null input: null output: null broken: false max volume: 500 current volume: 0 standing players: null
+

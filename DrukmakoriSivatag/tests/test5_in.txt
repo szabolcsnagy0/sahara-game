@@ -1,0 +1,14 @@
+add mechanic m1
+add saboteur s1
+add pump p1
+add pipe mpos
+add pipe spos
+connect mpos p1
+connect spos p1
+move m1 mpos
+move s1 spos
+move m1 p1
+state m1
+state p1
+move s1 p1
+state

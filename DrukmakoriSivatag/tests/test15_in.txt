@@ -1,0 +1,5 @@
+add spring spring
+add mechanic m1
+move m1 spring
+pickuppipe m1
+state

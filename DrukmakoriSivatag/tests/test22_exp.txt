@@ -1,0 +1,3 @@
+Pipe p1 with ends: null, null max volume: 500 current volume: 0 wasted water: 0 broken: true breakable: 0 slippery: 0 sticky: 0 standing player: m1
+Mechanic m1 on p1 has pipe: false has pump: false
+

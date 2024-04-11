@@ -1,0 +1,10 @@
+Pipe p1 with ends: pump1, null max volume: 500 current volume: 10 wasted water: 0 broken: false breakable: 0 slippery: 0 sticky: 0 standing player: null
+Pipe p2 with ends: pump1, pump2 max volume: 10 current volume: 10 wasted water: 0 broken: false breakable: 0 slippery: 0 sticky: 0 standing player: null
+Pump pump1 with ends: p1, p2 input: p1 output: p2 broken: false max volume: 10 current volume: 10 standing players: null
+Pump pump2 with ends: p2 input: null output: null broken: false max volume: 500 current volume: 0 standing players: null
+
+Pipe p1 with ends: pump1, null max volume: 500 current volume: 10 wasted water: 0 broken: false breakable: 0 slippery: 0 sticky: 0 standing player: null
+Pipe p2 with ends: pump1, pump2 max volume: 10 current volume: 10 wasted water: 0 broken: false breakable: 0 slippery: 0 sticky: 0 standing player: null
+Pump pump1 with ends: p1, p2 input: p1 output: p2 broken: false max volume: 10 current volume: 10 standing players: null
+Pump pump2 with ends: p2 input: null output: null broken: false max volume: 500 current volume: 0 standing players: null
+
